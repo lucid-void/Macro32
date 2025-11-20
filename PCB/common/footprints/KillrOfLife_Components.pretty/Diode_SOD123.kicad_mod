@@ -1,0 +1,166 @@
+(footprint "Diode_SOD123"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(placed yes)
+	(layer "F.Cu")
+	(descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
+	(tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
+	(property "Reference" "D1"
+		(at 0 1.5 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "71774ecf-df46-47c2-ba23-c346389e2acc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "D"
+		(at 0 -1.2 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8a7f5563-ab85-4e3a-a109-bdcd2bb16720")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9d327a80-ad31-41ed-8865-c9cbf558a5b3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "11dfb909-2a58-4fc5-a64a-f1d295151e84")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -0.5 -0.7)
+		(end -0.5 0.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9f879693-3dcf-41f7-a16a-fdd787aeb046")
+	)
+	(fp_line
+		(start -0.5 0)
+		(end 0.4 -0.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3c20c971-8950-4bf7-91a2-21fafb95b230")
+	)
+	(fp_line
+		(start 0.4 -0.7)
+		(end 0.4 0.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "20a49488-cc5b-4d5e-918c-942104a275a1")
+	)
+	(fp_line
+		(start 0.4 0.7)
+		(end -0.5 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "803f5253-b3e3-4590-80b2-6042ef68e82b")
+	)
+	(fp_line
+		(start -0.5 -0.7)
+		(end -0.5 0.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "6c6b1ab2-ecc1-4028-9d67-ac3df6e504fc")
+	)
+	(fp_line
+		(start -0.5 0)
+		(end 0.4 -0.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "063fe2b3-9288-40c2-939d-2acae0c636d9")
+	)
+	(fp_line
+		(start 0.4 -0.7)
+		(end 0.4 0.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "d54cfb78-e4dc-4ed3-9496-6a5c0daa3c09")
+	)
+	(fp_line
+		(start 0.4 0.7)
+		(end -0.5 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "f2d12d57-8cff-4469-bc9a-79d54b14354d")
+	)
+	(pad "1" thru_hole rect
+		(at -1.7 0)
+		(size 1.8 1.5)
+		(drill 0.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "dd79db4d-f3c4-4e3f-8ce2-55b67aed428a")
+	)
+	(pad "2" thru_hole rect
+		(at 1.7 0)
+		(size 1.8 1.5)
+		(drill 0.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "996c8d68-8a36-401d-9a73-16444dd068d6")
+	)
+	(embedded_fonts no)
+	(model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+		(offset
+			(xyz 0 0 -1.7)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 180 0 0)
+		)
+	)
+)

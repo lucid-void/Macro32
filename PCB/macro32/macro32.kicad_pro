@@ -60,19 +60,55 @@
       ],
       "drc_exclusions": [
         [
-          "hole_clearance|87364400|55533100|f5571649-14c6-43a2-835a-26bb0a6e3494|59ebe8e2-4844-4dd9-9619-8f65332fa24f",
+          "courtyards_overlap|126079291|113539291|2828880b-6b0f-461e-b73c-5ea3edb2fee2|d87e63e6-fb5e-4f02-be7e-885df1f80944",
           ""
         ],
         [
-          "hole_clearance|87364400|55533100|f5571649-14c6-43a2-835a-26bb0a6e3494|8917f10e-5dc7-42a9-a795-6c526e589e93",
+          "courtyards_overlap|126235000|118548223|262a1348-b8f1-438f-9da0-44feaa5afd32|2828880b-6b0f-461e-b73c-5ea3edb2fee2",
           ""
         ],
         [
-          "hole_clearance|93464400|55533100|da0b953e-2688-4ed0-8667-b3f9627e2a28|0b5edac2-220e-4132-bdbb-e45469ad3b5f",
+          "courtyards_overlap|126235000|61399423|8fc59193-97be-4c38-b23c-c1bd335b4d4c|d6b62d9a-5f17-4d1f-928a-77836cdda7b4",
           ""
         ],
         [
-          "hole_clearance|93464400|55533100|da0b953e-2688-4ed0-8667-b3f9627e2a28|e11bb8e4-e9f7-499a-8f62-484c8964a9cd",
+          "courtyards_overlap|130795000|113396323|06e45a87-96c9-4c09-b260-284ba0de4e04|2828880b-6b0f-461e-b73c-5ea3edb2fee2",
+          ""
+        ],
+        [
+          "courtyards_overlap|131073954|118255000|19c60432-e536-4363-976a-18c4c741b906|2828880b-6b0f-461e-b73c-5ea3edb2fee2",
+          ""
+        ],
+        [
+          "courtyards_overlap|131074973|61105000|d6b62d9a-5f17-4d1f-928a-77836cdda7b4|f52217b0-0854-4595-8dcd-0dbe2cbee613",
+          ""
+        ],
+        [
+          "courtyards_overlap|68929907|113539907|0f08e3c4-61b4-4f1a-befb-a7fc038ba278|657b7a28-5c54-40a8-9c84-49994cb422eb",
+          ""
+        ],
+        [
+          "courtyards_overlap|69085000|118547311|0f08e3c4-61b4-4f1a-befb-a7fc038ba278|8baea472-67b5-4f9b-8033-52521293e6f2",
+          ""
+        ],
+        [
+          "courtyards_overlap|69085000|61398511|21cd23d7-3a91-49b4-821c-68b62dd503d8|2423df8c-21d2-441e-92d3-daddea7bee13",
+          ""
+        ],
+        [
+          "courtyards_overlap|73645000|113395303|0f08e3c4-61b4-4f1a-befb-a7fc038ba278|4273a9c7-c075-4174-aa79-7447864d233c",
+          ""
+        ],
+        [
+          "courtyards_overlap|73925154|118255000|0f08e3c4-61b4-4f1a-befb-a7fc038ba278|22b9c419-0f67-4673-9b99-c301af748c60",
+          ""
+        ],
+        [
+          "courtyards_overlap|73926173|61105000|21cd23d7-3a91-49b4-821c-68b62dd503d8|ad9fe207-8396-4f76-9bc5-de69d4ecf6b5",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|99908515|54120758|1889c202-39a7-4b2d-b2bb-7ca2b16a9b4a|00000000-0000-0000-0000-000000000000",
           ""
         ]
       ],
@@ -96,7 +132,7 @@
         "footprint_filters_mismatch": "ignore",
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
-        "hole_clearance": "error",
+        "hole_clearance": "ignore",
         "hole_to_hole": "warning",
         "holes_co_located": "warning",
         "invalid_outline": "error",
@@ -530,7 +566,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "macro32.bom ",
+    "bom_export_filename": "production/macro32.bom ",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",

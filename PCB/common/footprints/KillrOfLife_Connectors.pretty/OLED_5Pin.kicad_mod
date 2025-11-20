@@ -1,0 +1,143 @@
+(footprint "OLED_5Pin"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Connecteur 6 pins")
+	(tags "CONN DEV")
+	(property "Reference" "J"
+		(at -1.915 1.93 90)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "17b5576a-2ee4-4e4f-8e9d-2841eb59b4f4")
+		(effects
+			(font
+				(size 0.8128 0.8128)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "OLED"
+		(at 3.81 1.27 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "544c7daa-e530-429e-b9f1-698492361e60")
+		(effects
+			(font
+				(size 0.8128 0.8128)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "55a5dffb-a691-41ac-9878-576acbfff6b2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f2ea16a6-898d-41ba-b238-cc6c27c57138")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -7 -18)
+		(end 7 18)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "31e0cd0d-f2dc-4690-a4e6-2eef578c33ee")
+	)
+	(fp_rect
+		(start -5.32 -15.3)
+		(end 5.18 14.2)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "731c92e6-5c37-4cbd-9e1f-5d91ece157c7")
+	)
+	(pad "1" thru_hole circle
+		(at -5.4 16.7)
+		(size 1.4 1.4)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "de280cb6-a2a9-48e9-a68b-ec760ed72fc7")
+	)
+	(pad "2" thru_hole circle
+		(at -2.86 16.7)
+		(size 1.4 1.4)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8131a26f-0e70-4303-9d02-cf9d375b5429")
+	)
+	(pad "3" thru_hole circle
+		(at -0.32 16.7)
+		(size 1.4 1.4)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7e70b8fd-f198-4d16-8801-5fe77d8027b6")
+	)
+	(pad "4" thru_hole circle
+		(at 2.22 16.7)
+		(size 1.4 1.4)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "805012d4-513d-4447-a284-0cb695e0e799")
+	)
+	(pad "5" thru_hole circle
+		(at 4.76 16.7)
+		(size 1.4 1.4)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "28e97a56-6763-456d-85c4-43d878ec8ba1")
+	)
+	(embedded_fonts no)
+	(model "${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x05_P2.54mm_Vertical.wrl"
+		(offset
+			(xyz -5.08 -16.75 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
+		)
+	)
+	(model "${COMMON}/3dmodels/kbd.3dshapes/OLED-Module-with-Pins.step"
+		(hide yes)
+		(offset
+			(xyz 2.54 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
