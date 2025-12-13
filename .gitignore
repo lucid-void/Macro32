@@ -1,5 +1,5 @@
-PCB/Production
-PCB/macro32-backups
-PCB/~macro32.kicad_pcb.lck
-PCB/~macro32.kicad_sch.lck
+PCB/macro32/Production
+PCB/macro32/macro32-backups
+*.kicad_pcb.lck
+*.kicad_sch.lck
 Microcontrollers
