@@ -6,9 +6,9 @@
 	(paper "A3")
 	(title_block
 		(title "Macro32")
-		(date "2025-11-08")
+		(date "2026-07-16")
 		(rev "v2")
-		(company "KillrOfLife")
+		(company "Lucid-void")
 	)
 	(lib_symbols
 		(symbol "KillrOfLife:Rotary_Encoder_Switch"
