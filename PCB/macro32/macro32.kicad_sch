@@ -11552,7 +11552,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Switch_Matrix.kicad_sch"
+		(property "Sheetfile" "macro32_matrix.kicad_sch"
 			(at 234.95 56.4646 0)
 			(show_name no)
 			(do_not_autoplace no)

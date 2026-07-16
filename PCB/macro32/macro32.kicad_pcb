@@ -93,7 +93,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(grid_origin 63.11 69.62)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
@@ -366,7 +365,13 @@
 		)
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/616f4113-a966-4a02-9890-9ab7868d6936")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1069,7 +1074,13 @@
 		)
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/1cd2a1df-0e07-418d-a846-8074de853d7f")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1919,7 +1930,13 @@
 		)
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/c48a3819-a28d-4625-93d5-3df03c282d10")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2622,7 +2639,13 @@
 		)
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/b670d1e9-835f-45a1-9f68-60a17e573336")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3325,7 +3348,13 @@
 		)
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/4cc05303-dc68-421c-88ff-ec47146fe849")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4757,7 +4786,13 @@
 		)
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/e6c87421-8a19-4d11-a4a4-8aa82a016a0d")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5460,7 +5495,13 @@
 		)
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/b4ee2007-7737-4c4e-8562-38243b101747")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6163,7 +6204,13 @@
 		)
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/c83cfb89-0115-4c2a-a9c1-6b09a2c855ad")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6866,7 +6913,13 @@
 		)
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/576ecf16-332f-415d-ac46-5ebd033eb12d")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7748,7 +7801,13 @@
 		)
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/b4462267-903d-4afc-ac2e-197c36582fbe")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8892,7 +8951,13 @@
 		)
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/73f21ed7-18c0-4398-b790-e5702a5f081a")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9786,7 +9851,13 @@
 		)
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/87375d33-50d0-4f93-9f10-81096bd9592d")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10489,7 +10560,13 @@
 		)
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/df592df3-f0a1-40ed-b175-f80dcbd73dc5")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11383,7 +11460,13 @@
 		)
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/7a772a55-d1e3-4775-91f2-62067dff8434")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12086,7 +12169,13 @@
 		)
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/aff18bf8-bfed-4913-80e8-76fb987bb73f")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12789,7 +12878,13 @@
 		)
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/4cd2cb91-65f0-4a5e-9b92-5f8b7429c6ce")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13492,7 +13587,13 @@
 		)
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/3d9cd089-f3c5-4df8-9bed-cdc58c1b48ea")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14195,7 +14296,13 @@
 		)
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/4fe975de-d0ec-42ed-bb90-41b665431fdc")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14898,7 +15005,13 @@
 		)
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/96f6226c-0bcf-4573-b47a-6d94518364a9")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15601,7 +15714,13 @@
 		)
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/ffcf5489-2cff-4a33-b01d-febff2f30ee2")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16643,7 +16762,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/90968097-5458-4621-9d1e-b55a8ac22712")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17016,7 +17141,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/2ed552d1-1fae-4749-9caf-dbf14f97f794")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17347,7 +17478,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "USBLC6"
+		(property "Value" "USBLC6-2P6"
 			(at -0.595312 4.167184 0)
 			(layer "B.SilkS")
 			(uuid "ef9a91da-7260-4408-a990-ec3a1244bdf5")
@@ -17857,7 +17988,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/e5cdaca8-4fcb-456b-8483-78588eeb37da")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18078,7 +18215,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/45b29491-9127-4f7b-9c2e-7fa406e36cbb")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18299,7 +18442,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/511c391a-4d9d-47ec-825e-057db3c63c71")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18520,7 +18669,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/f94b43f6-2187-49b3-8611-7f314ec8440d")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18741,7 +18896,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/442c2b07-d0da-47b2-9e81-d3d7c30c111b")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19181,7 +19342,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "STM32F07"
+		(property "Value" "STM32F072"
 			(at 0 -5.85 0)
 			(layer "B.SilkS")
 			(uuid "28ffa880-49d7-492d-a1dc-06d8c021b134")
@@ -20103,7 +20264,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/8f171107-1de9-4a18-9939-7c0442342fba")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21051,7 +21218,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/f7fc9ade-59b2-435f-a703-fb136e439e73")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21272,7 +21445,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/d83fdb68-3057-49b0-a635-a1d259b945b9")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21493,7 +21672,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/71feea19-5eb7-4174-8e87-6989b8f6c021")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21874,6 +22059,7 @@
 			(effects
 				(font
 					(size 1 0.8)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22768,7 +22954,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/ccdb2c35-d96d-4796-9fdb-39864c8af0b6")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23778,7 +23970,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/2d6123ec-401d-4d19-a9cb-2d974553931e")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24181,7 +24379,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/2662f1fb-077d-4704-9f27-5ac015102d49")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24402,7 +24606,7 @@
 		(property ki_fp_filters "RotaryEncoder*Switch*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/02dbd3a8-3d3b-4cf1-b07d-878ddbd4aa5d")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24908,7 +25112,7 @@
 		(property ki_fp_filters "RotaryEncoder*Switch*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/8545b809-1360-46d4-ae54-d1efb52adbb9")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25303,7 +25507,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/06a92df8-1a80-4cfe-b925-80dfd64a3dc3")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26131,7 +26341,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/add05da5-2953-42ff-a9ef-1c7b409c74bf")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26796,7 +27012,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/53095c1d-da34-4ce6-b537-799d571de7fc")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27571,7 +27793,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/d718b76e-0959-4c55-a526-b78ef2c3cdf6")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27792,7 +28020,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/46a83568-f327-4a97-a885-95ac6d34c214")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28195,7 +28429,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/5ed1fbde-a1db-4861-b19b-92a2babe2b2f")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28416,7 +28656,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/41dc2aaa-2fac-4c39-9a52-55199ebc564b")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28637,7 +28883,13 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2c763d05-1f99-4502-8713-47c1bc7e370b/1b61ff4f-54ae-4787-a6c7-abb96cbb916a")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "Switch_Matrix.kicad_sch")
+		(sheetfile "macro32_matrix.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
